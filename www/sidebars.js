@@ -43,6 +43,7 @@ module.exports = {
       'schemas/adapters'
     ],
     Tutorials: [
+      'tutorials/creating-a-database-adapter',
       'tutorials/testing-with-cypress',
       'tutorials/typeorm-custom-models'
     ]
